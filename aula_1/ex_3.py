@@ -19,6 +19,10 @@ print(Soma)
 #texto = 27
 #decimal = 1,80
 #
-#lista = {}
+# lista = {} mutavel pode inseriri e tirar informacoes 
 #dicionario = {}
-# Tupla ()
+# Tupla () imutavel vc nao muda
+
+
+#nome:
+

@@ -6,7 +6,7 @@ print (nome)
 print (idade)
 print (email)
 
-User = {
+user = {
 
     'nome':input ("Escreva seu nome:  "),
     'idade':input ('Digite sua idade:  '),   
@@ -36,3 +36,16 @@ else:
 
 #Operacoes entre booleano
 
+#operacao entre strings
+#first name = Debora
+#last_name = Llyon
+
+#concentracao 
+# print (first_name + '' + last_name)
+
+#interpretacao
+#mensagem = 'Ola, {}, Seja bem vindo' . format(
+#    fist) name
+    
+#)
+#print (mensagem)
